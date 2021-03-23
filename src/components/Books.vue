@@ -1,5 +1,5 @@
 <template>
-  <h3>Books</h3>
+  <div></div>
 </template>
 
 <script>
