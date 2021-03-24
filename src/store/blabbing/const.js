@@ -15,11 +15,11 @@ const getDefaultState = () => {
 			{
 				title: 'Cooling My Temp',
 				date: '24 Mar 21',
-				content: "Just received my thermal paste today at noon. It cools my CPU temp about 5-10 C. Finally, I couldn't be relaxed. Also I started watching Dr. Stone 2nd season today, lol.",
+				content: "Just received my thermal paste today at noon. It cools my CPU temp about 5-10 C. Finally, I couldn't be more relaxed. Also I started watching Dr. Stone 2nd season today, lol.",
 				links: [
 					{
 						alias: 'HWMonitor',
-						url: 'https://raw.githubusercontent.com/Solork/solork.github.io/master/src/images/hwmonitor.png'
+						url: 'https://raw.githubusercontent.com/Solork/github-pages/master/src/images/hwmonitor.png'
 					}
 				]
 			},
